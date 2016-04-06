@@ -1,0 +1,64 @@
+Logarithmorom. 327
+
+,, ordine mapnitudinis, quarum quae intermediae non sint inter proportionales
+ι ,5 Ι. medias proportionis cujuscunque, siue actu continuatae siue potestate continuan-
+’,φ’ ’ dae interpositione omissorum: intermediae tales proportionem extremarum
+’“” “’ non dividunt in commensurabilia.
+
+⁶ l. Commensurabilia enim ex eo dicuntur, quod habeant unam communem
+,ἑ =:· mensuram, quam quodlibet contiueat secundum eertum numerum aliquoties
+· exacte, sic ut nihil, quod ea mensura minus sit, restet residuum. 2. Jam
+
+sero mensura proportionum communis est et ipsa eliqua proportio, minor
+utraque mensuranda. 3. Omnis vero proportio est interduos terminos. 4. Et
+proportio repetitione sui, mensurans aliam proportionem, incipit ab uno
+
+. ἶ, Ι mensurandae termino eique sociat alium, pro ratione poenitentemne minoris,
+
+tamilla jam pro antecedenti sumto, statuit alium consequentem, hoc identidem,
+quoadusque permeatur proportionis mensurandae quantitas, non aliter quam
+cunr intervallo pedum circini metimur lineam, fixo pede circini in una lineae
+extremitate, pede altero punctum signamus, deinde pede priore in hoc punctum
+translato, punctum aliud altero pede metamur versus ulteriora, dorrec emensi
+fuerimus totam lineam. 5. Et proportio proportionem exacte mensurare
+dicitur, quando in hac continua terminorum interpositione et coaptatione tandem
+ultimus terminus proportionis mensurantis cum secundo termino mensuratae
+coincidit in quantitate. Igitur identitas illa proportionis mensurantis continue
+repetitae elficit terminos continue proportionales (prop. 7). Ergo si proportio
+aliqua duas proportiones exacte metitur, necesse est ut termini, quos ipsa
+mensurans interponit, sint cum ipsius mensurandae terminis continue pro·
+portionales. Si orgo nulla unquam quantumvis parva proportio potest inveniri,
+quae repetitione sui terminos ultimos assequatur proportionum mensurandarum,
+sic uttam major communis terminus, quam duo nrinores proportionum men·
+curandarum siut cum mensurantis torminis interpositis continue proportionales,
+proportiones illae sunt inter se incommensurabiles.
+
+Propositio tx. Cum duae loupitudines affabiles non fuerint ad
+inuicem, ut duo numeri ejusdem speciei flpuratieae, v. c. duo quadrati aut
+duo cubi: non cadent inter illas lonpitudines oliae effabilss mediae pro·
+portimsules numero tot, quot ipsa species postulat, v. c. quadrati unam,
+arbi duas, biquadrati tres etc.
+
+Sint enim duae longitudines A, D, habentes se quidem ad invicem ut
+numerus ad numerum, at non ut numerus cubicus ad cubicum3 etquis ds
+cubo agimus, de duabus igitur mediis proportionalibus erit dicendum, sint
+cae B et C: dico B et C non esse longitudines affabiles.
+
+Si enim quis contendat, esse effrsbiles, esto hoc positum: suut igitur ut
+numeri, sunt autem simul mediae proportionales inter A, D ex hypothesi,
+et quia etism A, D sunt ut numeri, quippe affabiles et ipsae supponuntur,
+habent vero duas medias B et C ut numeros, quare (Eucl. Vlll. 21.) Aet D
+similes erunt solidi, quare (27. ejusd.) erunt ad inuicem nt numerus ad
+numerum cubicum. Hoc vero est contra primam propositionis hypothesin,
+lelsum igitur positum luit, B et C esse longitndine effabiles, vera igitur est
+negatio in propositione comprehensa.
+
+Eodem modo etiam de quadratis et de una media proportionali ratio·
+cinari possumus deductione ad impossibile, nec minus de ceteris speciebus,
+post quadratum et cubum sequentibus.
+
+Propositio X. ss· es aliquot quantitatibus effabilibus, ordine mapni-
+tadinis invicem sequentibus, duae extremae non tuerint od invicem ut duo
+
+ 
+

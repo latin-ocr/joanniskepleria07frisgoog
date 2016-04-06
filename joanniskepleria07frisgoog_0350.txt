@@ -1,0 +1,67 @@
+humanorum. 033 .
+
+011 A 1000 11 1010 mensura proportionis A ad 13. Sit vero ut A 100
+sic C ad D 11 011 nota mensura proportionis A ad C: dico etiarn innotescere
+mensuram proportionis A ad D. Quia enirn nota est mensura ipsius A 0110
+proportionis, notu etiam erit ipsius 0 ad D proportionis, ut quae illi ponitur
+aequalis (postul. l); 10101110 011 011011 A ad 0, 01 A ad D est composita
+ex A ndC 010 ad D (01.1), quare etiam mensura ipsius A ad D com-
+ponetur ex mensura ipsius A ad 0, 1111100111011011100111), idest
+isius A ad 0.
+
+Ρ 001011011111 1. Hoc pacto 01 notificatis proportionibus to, prop. 18. 1110-
+missis, noscentur aliae tto numerorum intra millenarium 011 1101111 millenarium.
+
+Quoties enim datae 11111111101011101000111000 dirorum numerorum talium, in
+quibus 101 ambobus duos ultimos locos habuerint cyphrne (ut 000 01 1001. rel in eorum
+atero quidem duos, in reliquo 1110 01111 tut itineraretur 11 rito et 10). 10101
+unum solum eumque ultimum in utroque urrmcra locum ex tribus obtinuerit cyphra,
+quae tamen hanc cypbram antecedit figuraiu 011110 numero suparibus, in reliquo
+quinarius fuerit (1102001000, 010 010 01 bit, 0101011 000), rel 01 01101 quidem cyplrra
+tn ultimo loco caruerit, 111 paribus tamen fuerit (ut 1112 01111112), reliquus fuerit
+tiu: omnibus hisce casibus instituta multiplicatione numerorum, 11110111111111110
+
+tres cyphrne, quibus abjectis formatur uumerus, unus ex mille ordinis naturalis 101
+progressionis arithmeticae.
+
+' Corollarium ll. ilinc oritur praeceptum tractandi reguiam 1111111, 11101110 110
+loco occurrit 101111111 1000.
+
+Nam si ille occurrit primo loco iu tali situ: 111000 1101 lt quid 01 1111 additur
+mensura proportionis A : B ad mensurum proportionis A : 0, 110 111 mensura propor-
+tionis A : D. Sin autem 1000 01111101 1000 00111110 011 111110 11 1011 situ: B datA
+1000, quid C? 111 tali: 01101 0, quid A 10001 tanc aufertur mensura proportionis
+A: B a mensura proportionis A ε C 101 sius multiplicis proxime majoris, 110 relin-
+quitur mensuraret 110111 proportionis A ε D 111 ejus aeque multiplicis.
+
+Propositio XX. Quando fuerint at primns ad secundum sic tertius
+ad quartam, notae vero suerint proportiones ipsius 1000 ad tres priores,
+innotescet etiam proportio ejusdem 1000 ad quartam.
+
+sit enim A 1000 01 011 B: 0 = D: E, notae vero sint proportiones
+trit, A : C, A: D, dico innotescero etiam proportionem A: Ε. Nam
+qaia B: C = 13:13, aequalis est igitur mensura proportionis 1320 mensurae
+proportionis D : Ε. Sed B ε E est composita ex ll z 0111) :E (01.1),
+aequalis igitur crit proportio B: 0 proportionibus ss:c‚ D:E simul sumtis.
+Sed etAtssest composita exA2B 11010, 010 A:D 1111001011),
+ticA:CaxA:B 0101010111). Si ergoproB2D etB:O
+1111101111 proportiones notae A: D ot A ι 0, 1111 A z B bis accessit. Vicissim
+ri pro B 1 E sumatur A τ E, proportio quaesita, tune A: 0001111 tantum
+01100111. Si orgo 0 junctis A :D et A :C notis abstuleris A : B notam
+semel, rolinquitur A : E proportio quaesitu.
+
+corollarium I. Hac methodo praeterquam qaod superiorum chiliadis mul·
+tae exquiruntur, accedunt illis iusuper aliquot aliae.
+
+Corollarium ll. Hinc oritur praeceptum tractandi regulam trium, quando
+nuspiam occurrit rotundus 1000; 1111 sie collocentur tres: B dat 0, quid D'i Nam
+additur mensure proportionis A: 0 mensurae proportionisA :D 01 a summa aufertur
+mensura proportionis A :B rol ejus aliqua pars aliquota: ita relinquitur mensura pro·
+partionis A : E 101 ejus aeque multiplex.
+
+Definitio. Mensura cujuslibet proportionis inter 1000 et numerum
+eo minorem, nt est defierita in superioribas. caprena enumero. apponatur
+adhunc numeram minorem in Obtttade dicaturque Loparittrmrrr 0110,
+
+ 
+

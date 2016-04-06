@@ -1,0 +1,73 @@
+crput VIII. ' 379 Ι
+
+Sin posterior summa det 00, oui appone pro to loeis prius rejectis iam syphras 5,
+ita fit radix cubica 9000000.
+
+ΡΒΑΕΟΕΡΤΙΙΜ XIII.
+Invenire Louerithmurn, indicem proportionis inter duos numeros detor.
+
+Magnum hahet usum hoo praeceptum ad triangula plana solvenda, de '
+quihus agemus eapite sequenti
+
+Sunt autern casus varii: aut enirn uterque datorum terminorum invenitur
+expressus in chIliade, aut ulter solum, aut uenter. Etsi uterque iu chiliade,
+tuno ii aut proximi suut Invicem, ut 207, 208, seu 2370000, 2380000, et
+tuno differentia Logarithutorum, numerIs ed latus respondentium, est quaesitus
+proportionis iudex, ut in hoo exemplo 42105 iudicat proportionem inter 237
+et 238. Aut non sunt Invicem proximi, sed distant interjectis aliis, tuno
+Logarithmus majoris auferatur a Logarithrno minoris, restabit Logarithmus
+proportionis inter datos terminos.
+
+Exempla. Sint termini proportionis 1 et 80.
+
+Numeri 1000.00 Lug. 40001703
+Numeri 60000.00 Lug. 01082.80;111711,
+
+——-——
+
+potest restat Lug. proportionis luter datos 40943447, qui ideo et sexugeouplaior diei
+
+sto numeri 100000 Lug. 40051703
+Et numeri 240000 Iros. 87297014
+
+Restat Lug. viginti quadruplae proportionis 8784080.
+
+Sin rel neuter ex terminis, vel alteruter solum invenitur expressus iu
+chiliade, tuno vel eadit talis inter duos chiliadis proximos invicem estque
+ternpulosus, vel excedit maximum chiliadis Iu priori easu elaboretur prIus
+Logarithmus numeri scrupulosi et tune per euru operatio est eudem, quae
+prins. In posteriori essu sumantur numeri utriusque aeque multiplices partes,
+minores maximo chiliadis, et eum eorum Logarithmia agutur ut supra.
+
+Ut st quaeratur proportio iuter 10240000 st 1ooooo.oo‚
+
+dteutria sos aequaliter, ut sint eorum partes decimas, scilieet 1024000 hog. 22788080
+1000000 hog. 200208.οΙ
+
+Erit proportIouIs Lug. 207106.
+Ν ota. si numerorum alter inerit ipso maximus chilindis, tuno ipse Logarith-
+¹¹us alterius numeri est Index proportionis inter utrumque, sen positivus inerit Loga-
+
+rithmus seu privativus. Logarithmus euim delinitus est (postprop. nominatius
+tuan haue ipsa proportio.
+
+PRAEcEPTUM XIV.
+
+onpmonem eum terminis suis dutum rmore in portet, quur sint ud in·
+utrem in otiu proportione proposita.
+
+Data sit proportio inter terminos 37 et 03. Haeo proportio sit secanda iu partes
+⁶3¹8, quamn uua sit ad alteram, ut 5 ad 2. Igitur constituetur quantitas propor-
+honis secandae per praecedens praeceptum.
+
+Logar. Logar.
+Termini 3300 - 293740 vel 53000 - 03488
+3700 - 329084 37000 - 22420
+
+ProponnWssT osser.
+Jam secundae proportionis, seeundum quarn sennua est prima, termini sunto
+· ut, summa 7. Divide igitur proportionis primae quantitatem in i, erit pars septima
+titt et duae septimae 10208, ergo quinque septimus 25670,
+
+ 
+
