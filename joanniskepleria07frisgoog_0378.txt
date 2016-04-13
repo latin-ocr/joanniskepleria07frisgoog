@@ -1,0 +1,72 @@
+Caput vn. 361
+
+oum dispendio, quod distrahitur animus additionibus et subtractionibus meao-
+iogarithmorum comicis, hoc est multitudine cautionum, quihus arithmetica
+coseica constat. Sed quod attinet Logarithmos paulo exactiores ex ipsa etiam
+chiliade excerpendos, ut etiam iu hoc satisfiat curiositati quorundam, tradam
+capite sequenti 8. modum elaborandi Logarithmum cuique sinui respondentem ι
+capite vero 9. modum alium subsidiarium, capiendi pro Logarithmis partem
+proportionalem vulgarem, idque eine labore, mediantibus aliis Logarithmis.
+
+Hactenus igitur de triangulis sphaericis rectangulis egimus. Nunc ad
+obliquangula transeamus.
+
+Do mansalia obliquangmls sphaericis,
+
+in quihus casus aaut 12.
+
+Ι. Si dentur duo latera et angulus uni oppositus, quaeraturque angulus s
+alteri datorum laterum oppositus: ad Logarithmum anguli adde Logarithmum
+lateris dati, quaesito oppositi, asumma aufer liognrithruum lateris angulo dato
+oppositi, restabit Logarithmus anguli quaesiti, recto seu majoris seu minoris.
+
+ln triangulo PVS data sunto latera duo PV 38ο 30¹, VS 40⁰ 0‘, angulus VPS
+310 34¹, oppositus ipsi VS. Quaeritur angulus VSP, lateri vP oppositus.
+
+10631030. Log. 64700 ΕΙ
+VP 38. 30. '‘Q—Q lg. 4.
+
+Summa 112200. Ρ
+vs 40. o. majasco—gunt. 'V
+Besidnam 68010 ut
+Logarithmus ut vsa 30⁰ ae circiter. R
+
+Hic sitne ipsc quaesitus an ejus residuum ad
+semicirculum, facile discerni poterit ex habitudine late-
+rum, praesertim oppositi PV. Non est enim mei tn-
+nitati, minimas cautiones hac vice consectari.
+Ι 11. Si iisdem datis quaeratur latus tertium: tunc
+. addc Logarithmos augurii dati et lateris attigui dati,
+. pudic Logarithmus perpendiculi dictus. Ejus perpendiculi Logarithmns com·
+elementi ablatus a datorum laterum Logarithmis complementi, relinquit Loga-
+. rithmus duorum arcuum, quorum vel differentia vel complementorum summa
+satiatus quaesitum tertium.
+
+ΙΙΙ. Si iisdem datis quaeratur ungulus inter latera data cornprehensuq
+tunc quaeratur latus tertium, ut praecepto secundo horum. Ejus Logarithmo
+adde Logarithmum anguli dati, a summa auser Logarith'mum lateris, cui datus
+
+rpgrglus opponitur: restat Logarithnrus auguli comprehensi ejusque complementi
+t uos rectos.
+
+Exemplum ΙΙ. et 111. casuum. Iisdem datis quaeratur ΡΒ et PVS.
+
+VS 40⁰ 0‘. Log. 41190. Compl. 50⁰ 0‘. Log. 26660
+VPS 31. 34. Log. ettae
+vt> 38. 30. Lug. 47480. Compi. 51. ³0. hog. 24510
+
+. .--- ρ. .--...-..».. ,ι-
+
+’Ἷῑῐιὸῐόα Log. arnaco. sempr. τι. o. cog. seeo
+
+—--.. .--.--,-,,- ..-...--
+
+SR 35. 64. Compl. 54. 6. Log. 21060
+PR et. 8. . compton. 52. Log. 18910
+
+se τοο a‘. cog. erno*
+
+sua ea. sul soffia-0.—
+
+ 
+

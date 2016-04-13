@@ -1,0 +1,61 @@
+Insarithmoruru· 825
+
+quae runt inter maximam 11 unamquamlibet reliquarum minorum, sortientur
+. mansuras majores differentiis suorum terminorum.
+
+Nam proportio maximae ΑΚ ad minimam ΟΒ componitur ex proportionibus
+binarum 11 binarum deinceps usque ad minimam (11.1). At amnes binarum
+deinceps sitarum proportiones inter se sunt aequales (prop. 1), mensuras
+igitur etiam aequales habent (11111). Quare quot sunt elementa proportionis
+inter maximam ΑΚ 11 minimam ΟΒ, 111111 differentia KM maximarum ΚΑ
+11 HK vel MA continetur in mensura proportionis maximae ΚΑ ad minimam BG.
+Jaur vero maximae ΚΑ 11 minimae BG differentia KL componitur ex 1111111111Ιί1
+ΚΜ, ΜΟ, 01, binarum 11 binarum deinceps sitarum omnibus. Sed quaelibet
+111111111111ΜΟ, OL binarum deinceps seorsim minor est differentia maximarum
+(1111. 3), quare etiam totidem junctae differentiae binarum deinceps, idest
+differentia Ki, maximae ΚΑ 11 minimae BG erit minor quam multiplex ipsius
+ΚΜ, differentiae maximarum, secundnm numerum elementorum proportionis
+sactae. Sed multiplex ista est mensura proportionis inter maximam ΚΑ 11
+minimam BG, ut jam ostensum: ergo differentia KL maximae et minimas
+nou aequat mensuram proportionis earum, positis quae sunt posita.
+
+ln nnmeris sic: sint numeri 1000, 000, iiii), 729 11111111 11111111111111,· ma·
+ximi 11111000, 900, eorum differentia est 100. Sit haec mensura arbitraria propor-
+tionis 1000, aaa, 1111 igitur etiarn 11111111111111111111111111000, stu et proportionis
+siu, 729: compositae igitur proportionis inter 1000 et 7211 mensura erit 300, quia ele·
+menta aequalis proportionis 1111 1111 111 duos medios proportionales (ax. 2). Atqui
+terminorum hujrrs proportionis, sc. 1000111211, differentia est 271, multo minor quam
+300, triplum ipsius 100.
+
+Ρ111111111 Vl. ln continnae proportionalibus si differentia maximae
+et unius minorum non deinceps sequentis statuitur mensura proportionis
+iliarum, reliquae proportiones, quae quidem suni inter maximam et unam
+priua ascita maiorem, sortientur mensuram minorem differentia suarum
+terminorum quae uero proportiones sunt inter quantitatem maximam et
+unamquamlibet, prius 111111 minorem, nanciscentur mensuram majorem,
+quam est differentia suorum terminorum.
+
+Sint proportionales ΑΚ, KH, DF, ΟΒ, 11 assumantur maxima quidem
+ΑΚ ct una minorum non deinceps, DF, sitque illarum differentis ΚΟ 11 ΚΟ
+mensuret quantitatem proportionis inter ΑΚ 11 DF. Et sint aliae quantitates,
+ΕΗ quidem maj0r prius ascita DF, GB 1111 1111 minor, 11 111 MK differentia
+ipsarum ΑΚ, ΕΗ, 111 HI 111 ΜΟ 111 differentia ipsarum ΕΗ, DF, denique FO
+sit differentia ipsarum DF, ΟΒ. Dico primo, mensuram proportionis ΑΚ, ΕΗ
+1111 minorem differentia terminorum MK. '
+
+Nam quia proportio ΑΚ ad DF mensuram accipit ΚΟ, eadem vero pro·
+portio habet partes aequales, constitutas per mediam proportionalem ΕΗ (prop. 1),
+proportionis igitur AK, ΕΗ mensura erit dimidia ipsius ΚΟ 111 1111. 1. (111
+pars aliquota secundum numerum interjectarum KH). At differentia MK maj0r
+est quarn ΜΟ, residua de ΚΟ (1111. 3), major igitur quam dimidium ipsius ΚΟ,
+ergo et major quam ut possit esse mensura proportionis inter KA 11 ΗΕ,
+majorem prius ascita FD.
+
+Dico secundo, mensuram proportionis ΑΚ ad ΟΒ 1111 majorem differentia
+LK. Rursum enirn proportionis ΕΗ ad DF, quae semissis cst ipsius ΑΚ
+ad DF, mensura erit semissis ipsius ΚΟ (1111. 1), 111 1111 alia aliquota etc.
+At differentia HI 111 ΜΟ minor est quam ΜΚ, residua de ΚΟ (prop.3),
+minor igitur HI quam dimidium ipsias ΚΟ, ergo minor quam 1111111111-
+
+ 
+

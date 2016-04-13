@@ -1,0 +1,83 @@
+340 Demonstratio structurae
+
+indicet eeu mmsuree proportionum, oues oomtituunt meolati ilii et merendi
+numeri eum eorum monimo 1000, ineremento eeu differentiae isorum lopo-
+ritirmorum se lobeni uei ioporitlrmum elementi minimi proportionum, sieut
+secantes ipsi toti arcuerit, quorum complementis absoluti bini numeri ut
+unus competunt, rese hebent ad numerum maximum eeu radium eirouli,
+aie ut eu duodus secantibus duorum numerorum, inter quorum loparitlsmeit
+
+, differentia proponitur, minor quidem minorem constituat proportionem eum
+
+radio, quem differentia proposita eum omnium primo, major mojorem atque
+
+· etiam medium proportionale inter secantes maiorem itidem.
+
+Iu schemate prop. 21. sint aequales DC, CB, differentiae numerorum
+absolutorum DA, CA, BA, quorum maximus AD. Bt quis DC, CB aequales,
+¹ major igitur eet proportio BA et Ac
+
+terminorum minorum, minor CA et AD
+
+majorum (prop. 13. tmoli). Major lgi-
+
+tur et mensure proportionis BA sd Ac
+
+quam proportionis GA ud AD, lr. e.
+
+differentia logurithmorum, ipsis CA et
+
+BA absolutis respondentium, est maJor
+
+primo legarithmo ρετ 01) repraesen-
+
+tato. Sit ty legerithmus ipsius CA,
+
+et 73 ln easdem lineae partes sit lo·
+
+garithmns ipsius BA et respondent ipsi
+
+Δ cA seeuns GA et ipsi BA secans FA:
+
+β dico, proportionem βγ ad γᾶ majorem
+
+----- esse quam proportionem GA ud AD,
+
+minorem vero quam FA ud AD, minorem etiam quam medium proportionale
+luter FA et GA. Nam (prop. 25.) major est proportio DA sd AB qnam Bp
+ad po, major etiam DA ad medium inter BA et AD; sed FA ad AD ρ’το-
+portio aequalis est proportioni DA ad AB, quia DA est medium proportionale
+inter BA et AF, sio etium medii geometrici inter BA et GA ad BA proportio
+aequalis est proportioni DA ad medium geometricum inter DA et AB. Major
+igitur etium ΡΑ ad AD, major etism medii proportionalis inter BA et AG
+ad AD, quem ily ad pi. Sio (per eandem) minor est DA ad AC et sie etiam
+
+GA sd AD quum βγ ad yd.
+
+corollarium I. Idem obtinet etiamtunc, si duo termini differunt non sols
+unitate elementi minimi, sed aliu unitate, quae sit illius decupla, centupla, millecupla
+
+Corollarium ΙΙ. Hine differentiae satisjnstae‚ praesertim ubi absoluti numeri
+sutis magni sunt, exstrui possunt, sumto medio arithmetico inter duos secantes parvos
+rel etiem (si placet labor) medio geometrico inter secantes majores exque dide·
+rentiis continue additis accumulari legarithmi.
+
+CorollariumIlI. Praeceptum. Diride sinum totum ρετ utrumque pro·
+portionis susceptae terminum, quotientis utriusque medium arithmeticum est quaesi·
+
+⁴ tum incrementum hoe adde ad logarithmum termini majoris, prodit logorithmns ter·
+
+mini minoris.
+
+Exemplum. Datus esto logatithmus ad 700, sc. intimidi, quaeritur loga·
+rithmus ed 699. Diride ergo redium ρετ 700, prodit 142857142857142857142857.. .;
+divide etiem per 699, prodit 1630672 . .. Medium arithmeticum est 1429523 adde
+hoo sd 35667 Aaou, prodit logarithmus ad 699: 35810.4568.*)
+
+——u———-
+
+*) Propius et omnino proximum rere ost medinm geometricum, at nou est pretinm
+operta tsm operosas, quando unus solur ral ultor logsritlrmue ast consumendus. ’
+
+ 
+

@@ -1,0 +1,64 @@
+428 Tabularum lindolpbl meropia
+
+Sit commutationis angulus 1480 00, ut angulus iuter latera sit 32⁰. Propertio
+laterum illorum sit 34587. Oportet invenire angulos ad basin, qni juncti facim 1480.
+Secetur commutatio in partes inaequales pro arbitrio, verbi causa in 730. 750. Est
+igitur majoris 750 legarithmus 3407, qul additus ad logarithmum proportionis 34537,
+conficit summam 38034. Ηιιι in canone quaesita inter logaritbmos‚ exbibet amum in
+bonta ιι sinistro margine 430 80. Ηὶι igitur arcus emergens erit propior vero, quam
+730, initio positus tanquam duonum miuor. Pone ergo seeundo, minorem angulum
+esse 430 80, erit ergo major 1040520, logaritbmus 3405. Ilio atljeetns sd 34557 dat
+summam 37972, cnjus nt logarithmi arcus est 430 100. st positus erat minor angulus
+secundo actu 430 80. Ergo pone minorem angulum tertio 430100, erit major 1040 500.
+Hujus uero logarithmus 3383, additus ad proportionem 34567, praestat summam 37353
+cuius ut logarithmi arens est 430100 paulo plus3 iere ut prius Minor igitur angulas
+ιιι 430 100, major 1040 500.
+
+Compendio seu couboues.
+
+Haec regula generalis quidem est etfacilis, at non ιιωιιι citra manua
+quasdam suadenda promiscue. Nam si maj0r angulorum quaesitorum ιιιιιιιήι
+multum a quadrante, longissima oreretur series repetitionum. Ergo nt abbre-
+vietur operatio, quaedam suut observanda statim initio, quaedam ln media
+Pro initiali felici positione duae sunt regulae certae, prior universalis pso
+quantocunque commutationis angulo, posterior particularis, quaudo commutatio
+excedit quadrantem. In utraque regula legaritbmus proportionis immittendus
+ιιι in canonem legarithmorum semicirculi et excerpendae ejus arcus.
+
+Est igitur prior regula ista, qnod angulorum quaesitorum minor non potest
+essa major arcu proportionis, sed est plerumque minor, oum vcro minor bic
+est aequalis arcad proportionis, tunc quaesitorum major semper est 300.
+
+Utin exemplo nostro, quia proportio 34567 ut legaritlnmus dat smum 45030,
+minor angulus initio nan debuit poni major hoc meu, et imperite positus init, qussi
+sit 730. Quia imo, qula additis 90⁰ ad 450 30, componitur 135030, ab hoc reso coss·
+mutatio 1480 differre deprehenditur, omnino quaesitus minorangulus arguebatur tumne
+inira 450 30, scillcet 430 100. ,
+
+Sic si commutationis angulus esset 830, quia hIc multum recedit ab 1350 30,
+quaesitorum minor erit longe inira 450 30. Nam non esse illurn aequalem Ipsi 45030,
+in boc exemplo etlam inde constat, quia cum da angulorum minore agatur, arcus 45030
+ιιιιι angulorum major, quia plus dImidio ipsius 890.
+
+Ι. Pane crgo 300, residuus erit 530. Logaritbmus 15412 (14384) eum 34557
+facit 43079 (48951), perhanc arcus ostenditur verior 370 210 (430). II. Pone 370210,
+erit major 510 330. Logaritbmus 24305 cum 34507 iacit 58872, mous verior 330430.
+III. Pone 3343, emerget 3534. 1v. Pone 3534, emerget 3438. 7. Pone 3458
+emerget 357. 71. Pone 357, emerget 3452. 711. Pone 3452, emerget 350
+
+, VIII. Pone 350, emerget 3453. ΙΧ. Pone 3450, emerget 3458. Χ. Pone 3458,
+
+emerget 3457. xl. Pone 3457, emerget 3457.
+Hic est ergo miuor angulus, ergo major 540 300.
+
+Posterior regala pro solis illis commutationibus, quae quadrantem er·
+cedunt, utitur et areu illo proportionis, et complemento commutationis anguli
+ad duos rectos. Nam ai arcus proportionis luerit intra 300, tertiam partem
+quadrantis, quaesitorum angulorum minor erit inira complementum. Atrum
+arcus proportionis excesserit non tautum hunc praestitutum termInum 300, ssd
+⁴ etiam complementum ipsum, tuuc etiam quaesitorum angulorum minor excedet
+hoc complementum fitque semper tauta vicinior moui proportionis, quanto viei-
+nior ast ista gradibus 45.
+
+ 
+
